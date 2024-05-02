@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basupatil1213&label=Profile%20views&color=0e75b6&style=flat" alt="basupatil1213" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://basavaraj-patil-portfolio.netlify.app/](basavaraj-patil-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [basavaraj-patil-portfolio.netlify.app/](https://basavaraj-patil-portfolio.netlify.app/)
 
 - 💬 Ask me about **Front End Development, Cloud Technologies, Salesforce**
 
