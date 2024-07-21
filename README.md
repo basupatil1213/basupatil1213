@@ -110,7 +110,7 @@
 
 ###### Cloud & Deployment Platforms
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,terraform&perline=6" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,terraform&perline=5" />
 
 </td>
 
