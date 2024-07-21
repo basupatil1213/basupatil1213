@@ -5,6 +5,7 @@
  </div> -->
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 100%; height: auto;">
+    <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="Giphy GIF" style="max-width: 100%; height: auto;">
 </div>
 
 
