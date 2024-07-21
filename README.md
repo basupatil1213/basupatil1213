@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 80%; max-height: 80%; width: auto; height: auto;">
  </div> -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="width: 500px; height: auto;">
+    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="width: 450px; height: auto;">
     <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="Giphy GIF" style="width: 350px; height: auto;">
 </div>
 
