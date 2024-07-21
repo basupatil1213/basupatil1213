@@ -1,14 +1,15 @@
 <!-- <img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif"> -->
-<img align="center" src="https://giphy.com/embed/p4NLw3I4U0idi.gif">
-<!-- <div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p> -->
+<!-- <img align="center" src="https://giphy.com/embed/p4NLw3I4U0idi.gif"> -->
+<div style="width:100%;height:0;padding-bottom:72%;position:relative;">
+    <iframe src="https://giphy.com/embed/p4NLw3I4U0idi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<!-- <p><a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p> -->
 
 <div align=center>     
       
 ![Profile Views](https://komarev.com/ghpvc/?username=basupatil1213&color=219ebc&style=flat)
 <br><br>
 </div>
-
-
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Basavaraj+Patil!" alt="Typing SVG" /></a>
@@ -28,7 +29,6 @@
 
 - 📫 How to reach me **patil.basava@outlook.com**
 
-
 <br>
 
 <h2 align="left"> 💬 <b>Connect with me:</b></h2>
@@ -44,8 +44,6 @@
 <!--- <div align="center">
    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
 </div> --->
- 
-
 
 <table align="center" style="width:100%">
 <tr>
@@ -135,11 +133,7 @@
 </tr>
 </table>
 
-
-
-      
-
-<br/> </br> 
+<br/> </br>
 
 <h2 align="center"><b>🏆 Github Trophy</b></h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basupatil1213&theme=onedark" style="margin: 10px" alt="basavarajpatil" /></a> </p>
@@ -151,7 +145,6 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=basupatil1213&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"/><br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=basupatil1213&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
 
-
 </p>
 <br>
 
@@ -161,10 +154,7 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=basupatil1213&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
 </div>
 
-
-
 <br>
-
 
 <h2 align="center"></h2>
 
