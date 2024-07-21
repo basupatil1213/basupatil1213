@@ -1,6 +1,6 @@
 <!-- <img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif"> -->
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 300px;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 100%;">
 </div>
 
