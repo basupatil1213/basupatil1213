@@ -3,9 +3,9 @@
 <!-- <div style="display: grid; place-items: center; width: 100%; height: 500px;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 80%; max-height: 80%; width: auto; height: auto;">
  </div> -->
-
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" align="right">
-
+<div>
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" align="center">
+</div>
 
 
 
