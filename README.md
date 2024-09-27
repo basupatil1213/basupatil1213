@@ -2,11 +2,11 @@
 
 <!-- <div style="display: grid; place-items: center; width: 100%; height: 500px;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 80%; max-height: 80%; width: auto; height: auto;">
- </div> -->
+ </div> 
 <div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
     <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="width: 490px; height: auto;">
     <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="Giphy GIF" style="width: 310px; height: auto;">
-</div>
+</div> -->
 
 
 
