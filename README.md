@@ -1,184 +1,181 @@
-<!-- <img align="center" src="https://user-images.githubusercontent.com/99413629/212354977-f1982553-e8c9-4fd8-8605-b06907901eec.gif"> -->
-
-<!-- <div style="display: grid; place-items: center; width: 100%; height: 500px;">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="max-width: 80%; max-height: 80%; width: auto; height: auto;">
- </div> 
-<div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-    <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Giphy GIF" style="width: 490px; height: auto;">
-    <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="Giphy GIF" style="width: 310px; height: auto;">
-</div> -->
-
-
-
-
-
-
-<br>
-
-
-<div align=center>     
-
-      
-![Profile Views](https://komarev.com/ghpvc/?username=basupatil1213&color=219ebc&style=flat)
-<br><br>
-</div>
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Basavaraj+Patil!" alt="Typing SVG" /></a>
-     
+
+![Profile Views](https://komarev.com/ghpvc/?username=basupatil1213&color=6366f1&style=flat-square&label=Profile+Views)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Patil+%F0%9F%91%8B;Full+Stack+Engineer;AI+%2F+Cloud+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/patilbasavaraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:patil.basava@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/basupatil1213?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+  </a>
+</p>
+
 </div>
 
-<h3 align="center">A passionate Software Developer and Life-Long Learner</h3>
+---
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
+## About Me
 
-<img align="right" alt="Coding" height="270" width="300" src="https://user-images.githubusercontent.com/99413629/212356179-72d0d750-710a-4077-8c79-34b55d6eb954.gif">
+I'm a **Full Stack Software Engineer** passionate about building AI-powered products, scalable cloud infrastructure, and developer tools. I thrive at the intersection of backend systems and modern frontend experiences.
 
-- 👀 I’m interested in **Full Stack Development, Cloud Technologies, Blockchain Technologies, AI, Salesforce**
+- Building with **AI / LLMs** — Spring AI, OpenAI, Gemini, LangChain
+- Designing **distributed systems** — Akka Typed, microservices, event-driven architectures
+- Deploying on **cloud** — GCP, AWS, Terraform, Docker
+- Exploring **Web3** — Solidity smart contracts, NFT protocols, IPFS
+- Currently deepening: **Java/Spring Boot**, **Next.js**, and **cloud-native patterns**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/basupatil1213?tab=repositories)
+---
 
-- 📫 How to reach me **patil.basava@outlook.com**
+## Featured Projects
 
-<br>
-
-<h2 align="left"> 💬 <b>Connect with me:</b></h2>
-<p align="left">  
-<a href="https://www.linkedin.com/in/patilbasavaraj/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basavaraj Patil" height="40" width="40" /> </a>
-&nbsp; &nbsp;
-<a href="https://www.instagram.com/basu_patil1213/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
-</p>
-&nbsp; &nbsp; 
-      
-<h2 align="left"><b>🎇Languages and Tools</b></h2>
-
-<!--- <div align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,git,github,nodejs,express,mongodb,mysql,firebase,appwrite,npm,postman,vercel,netlify,wordpress,vscode&perline=10" />
-</div> --->
-
-<table align="center" style="width:100%">
+<table>
 <tr>
-<td >
+<td width="50%" valign="top">
 
-###### Foundational Web Technologies
+### AI Interview Prep Assistant
+Actor-based interview simulation platform built with **Akka Typed + Spring Boot + Spring AI**. Delivers adaptive, multi-turn AI interviews with LLM-generated questions and structured feedback.
 
-<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" />
+`Java` `Akka Typed` `Spring Boot` `OpenAI` `REST API`
 
 </td>
+<td width="50%" valign="top">
 
-<td style="width:33%">
+### CourseCraft AI
+Duolingo-style AI learning platform powered by **Google Gemini**. Generates personalized courses on any topic with gamification — XP, streaks, card-swiping lessons, and quizzes.
 
-###### Frontend Libraries and Frameworks
-
-<img src="https://skillicons.dev/icons?i=react,redux,sass,tailwind,nextjs&perline=5" />
-</td>
-
-<td style="width:33%">
-
-###### Version Control
-
-<img src="https://skillicons.dev/icons?i=git,github&perline=2" />
+`Next.js 16` `TypeScript` `Firebase` `Gemini AI` `Tailwind CSS`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
 
-<td style="width:33%">
+### NFT Marketplace
+End-to-end NFT marketplace with on-chain auctions. Smart contracts written in **Solidity** with Foundry, frontend using **RainbowKit/Wagmi**, and IPFS/Pinata for metadata storage.
 
-###### Backend and Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
-
-</td>
-
-<td >
-
-###### Authentication and Databases
-
-<img src="https://skillicons.dev/icons?i=firebase,appwrite&perline=2" />
+`Solidity` `Foundry` `Next.js` `Wagmi` `RainbowKit` `IPFS`
 
 </td>
-<td style="width:33%">
+<td width="50%" valign="top">
 
-###### Package Management
+### Buildsy Web
+AI-driven side-project idea generator and community platform. Features personalized idea generation via **OpenAI**, community feeds with voting/comments, and personal dashboards.
 
-<img src="https://skillicons.dev/icons?i=npm,pnpm,vite&perline=3" />
+`React` `Node.js` `Supabase` `OpenAI` `PostgreSQL`
 
 </td>
-
 </tr>
 <tr>
+<td width="50%" valign="top">
 
-<td style="width:33%">
+### Patient Management Microservices
+Healthcare microservices system with separate **patient** and **billing** services. REST APIs with full OpenAPI/Swagger documentation and PostgreSQL persistence.
 
-###### Testing and API
-
-<img src="https://skillicons.dev/icons?i=postman,bruno&perline=1" />
-
-</td>
-
-<td >
-
-###### Cloud & Deployment Platforms
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify,aws,gcp,terraform&perline=5" />
+`Java` `Spring Boot` `PostgreSQL` `Swagger/OpenAPI` `H2`
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### GCP Infrastructure as Code
+Production-grade GCP infrastructure using **Terraform** — VPCs, Cloud SQL, autoscaling instance groups, HTTPS load balancing, KMS encryption, Pub/Sub, and Cloud Functions.
 
-###### Programming Langugages
+`Terraform` `GCP` `Cloud SQL` `KMS` `Pub/Sub` `IAM`
 
-<img src="https://skillicons.dev/icons?i=java,py,js,ts,&perline=4" />
 </td>
-
 </tr>
 <tr>
-<td style="width:33%">
+<td width="50%" valign="top">
 
-###### Development Environment
+### MindfulTabs — Screen Time Extension
+Chrome extension (Manifest V3) that tracks per-domain browsing time in real-time with an interactive dashboard, charts, and analytics. Built with React + TypeScript.
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm&perline=3" />
+`React` `TypeScript` `Chrome Extension MV3` `Vite` `Chrome Storage API`
+
+</td>
+<td width="50%" valign="top">
+
+### AIFlash
+AI-powered flashcard and practice question generator. Users paste any text and get study-ready cards instantly, with optional Stripe-gated premium features and Firestore persistence.
+
+`Next.js` `TypeScript` `OpenAI` `Firebase` `Stripe` `Tailwind CSS`
 
 </td>
 </tr>
 </table>
 
-<br/> </br>
+---
 
-<h2 align="center"><b>🏆 Github Trophy</b></h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basupatil1213&theme=onedark" style="margin: 10px" alt="basavarajpatil" /></a> </p>
-<br> <br>
+## Tech Stack
 
-<h2 align="center"><b>📊 Github Stats</b></h2>
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=basupatil1213&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast&sideLabels=f77f00"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=basupatil1213&show_icons=true&locale=en&theme=highcontrast&sideLabels=F00"/><br>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=basupatil1213&show_icons=true&locale=en&theme=highcontrast&langs_count=6&layout=compact"/>
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,solidity&perline=10" />
 
-</p>
-<br>
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,html,css&perline=10" />
 
-<h2 align="center"><b>🌄 GitHub Activity</b></h2>
+<h4>Backend & Databases</h4>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql,mysql,firebase&perline=10" />
+
+<h4>Cloud & Infrastructure</h4>
+<img src="https://skillicons.dev/icons?i=gcp,aws,terraform,docker,vercel,netlify&perline=10" />
+
+<h4>AI / ML Tooling</h4>
+
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Akka](https://img.shields.io/badge/Akka-15AEE0?style=flat-square&logoColor=white)
+
+<h4>Tooling & Dev Environment</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,pnpm,vite&perline=10" />
+
+---
+
+## GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=basupatil1213&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />   
+
+<img src="https://github-readme-stats.vercel.app/api?username=basupatil1213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="160" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basupatil1213&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=basupatil1213&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+
 </div>
 
-<br>
+---
 
-<h2 align="center"></h2>
+## GitHub Activity
 
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basupatil1213&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Activity Graph" />
+</div>
 
-<!--<img src="https://raw.githubusercontent.com/basupatil1213/basupatil1213/output/snake.svg" alt="Snake animation" />-->
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=basupatil1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+</div>
+
+---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&size=30&color=CBC0D3&background=1982C400&center=true&lines=%E2%9A%A1%EF%B8%8FStay+awesome!%E2%9A%A1%EF%B8%8F;%E2%9D%A4%EF%B8%8F+Have+a+nice+day+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+**Let's build something great together.**
+<br/>
+<a href="mailto:patil.basava@outlook.com">patil.basava@outlook.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/patilbasavaraj/">LinkedIn</a>
 
 </div>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/99413629/212357396-fe1a483f-6269-43ea-bfe9-06099f7c0c87.svg" alt="wave svg" />
-</p>
