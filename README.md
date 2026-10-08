@@ -2,7 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=basupatil1213&color=6366f1&style=flat-square&label=Profile+Views)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Basavaraj+Patil+%F0%9F%91%8B;Full+Stack+Engineer;AI+%2F+Cloud+Builder;Always+Learning%2C+Always+Shipping" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Basavaraj+Patil+%F0%9F%91%8B;AI+Engineer+%40+Mondee;Agentic+Systems+%C2%B7+RAG+%C2%B7+MCP;Building+production+LLM+apps" alt="Typing SVG" /></a>
+
+### AI Engineer | Agentic Systems, RAG, MCP | Building production LLM apps at Mondee
 
 <p>
   <a href="https://www.linkedin.com/in/patilbasavaraj/" target="_blank">
@@ -24,119 +26,79 @@
 
 ## About Me
 
-I'm a **Full Stack Software Engineer** passionate about building AI-powered products, scalable cloud infrastructure, and developer tools. I thrive at the intersection of backend systems and modern frontend experiences.
+I'm an **AI Engineer at Mondee** (since May 2026), building production LLM applications: agentic systems, RAG pipelines, and the backend services that run them. Before that I was a Software Engineer at **Work4Flow**, an SDE intern at **Epic Games**, and a Software Developer at **Koch Business Solutions**. I hold an **MS in Computer Software Engineering from Northeastern University** (2025) and I'm based in **Austin, TX**.
 
-- Building with **AI / LLMs** — Spring AI, OpenAI, Gemini, LangChain
-- Designing **distributed systems** — Akka Typed, microservices, event-driven architectures
-- Deploying on **cloud** — GCP, AWS, Terraform, Docker
-- Exploring **Web3** — Solidity smart contracts, NFT protocols, IPFS
-- Currently deepening: **Java/Spring Boot**, **Next.js**, and **cloud-native patterns**
+- Building **agentic AI systems**: LangGraph, LangChain, RAG, MCP
+- Designing **backend & distributed systems**: FastAPI, Node.js, Spring Boot, Kafka, Akka Typed
+- Shipping on **cloud**: AWS, GCP, Docker, Terraform
+- Working with **vector & relational data**: PostgreSQL, pgvector, Pinecone, Qdrant
+
+Open to **AI Engineer / Software Engineer (SDE)** roles.
 
 ---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [Blog Writing Agent](https://github.com/basupatil1213/blog-writing-agent)
+Multi-agent LangGraph pipeline that plans, researches (Tavily web search), writes sections in parallel, and illustrates long-form blog posts end to end, with live progress streamed to a React UI over SSE.
+`Python` `LangGraph` `LangChain` `OpenAI` `FastAPI` `PostgreSQL` `MinIO` `React` `Docker`
 
-### AI Interview Prep Assistant
-Actor-based interview simulation platform built with **Akka Typed + Spring Boot + Spring AI**. Delivers adaptive, multi-turn AI interviews with LLM-generated questions and structured feedback.
+### [AI Interview Prep Assistant](https://github.com/basupatil1213/ai-interview-prep-assistant)
+Actor-based mock-interview backend: Akka Typed actors orchestrate adaptive, multi-turn interviews with LLM-generated questions, follow-ups, and end-of-interview feedback via Spring AI.
+`Java` `Akka Typed` `Spring Boot` `Spring AI` `OpenAI` `REST API`
 
-`Java` `Akka Typed` `Spring Boot` `OpenAI` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### CourseCraft AI
-Duolingo-style AI learning platform powered by **Google Gemini**. Generates personalized courses on any topic with gamification — XP, streaks, card-swiping lessons, and quizzes.
-
-`Next.js 16` `TypeScript` `Firebase` `Gemini AI` `Tailwind CSS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### NFT Marketplace
-End-to-end NFT marketplace with on-chain auctions. Smart contracts written in **Solidity** with Foundry, frontend using **RainbowKit/Wagmi**, and IPFS/Pinata for metadata storage.
-
-`Solidity` `Foundry` `Next.js` `Wagmi` `RainbowKit` `IPFS`
-
-</td>
-<td width="50%" valign="top">
-
-### Buildsy Web
-AI-driven side-project idea generator and community platform. Features personalized idea generation via **OpenAI**, community feeds with voting/comments, and personal dashboards.
-
-`React` `Node.js` `Supabase` `OpenAI` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Patient Management Microservices
-Healthcare microservices system with separate **patient** and **billing** services. REST APIs with full OpenAPI/Swagger documentation and PostgreSQL persistence.
-
-`Java` `Spring Boot` `PostgreSQL` `Swagger/OpenAPI` `H2`
-
-</td>
-<td width="50%" valign="top">
-
-### GCP Infrastructure as Code
-Production-grade GCP infrastructure using **Terraform** — VPCs, Cloud SQL, autoscaling instance groups, HTTPS load balancing, KMS encryption, Pub/Sub, and Cloud Functions.
-
+### [GCP Infrastructure as Code](https://github.com/basupatil1213/tf-gcp-infra)
+Terraform for a full GCP web-app stack: custom VPC, private Cloud SQL with KMS encryption, autoscaled instance groups behind an HTTPS load balancer, Pub/Sub + Cloud Functions, and Cloud DNS.
 `Terraform` `GCP` `Cloud SQL` `KMS` `Pub/Sub` `IAM`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [MindfulTabs](https://chromewebstore.google.com/detail/mindfultabs/nodabedmppkdeecaeeicghleooenidgp) (live on the Chrome Web Store)
+Privacy-first Chrome extension I launched in Oct 2025 that tracks per-site browsing time with daily, weekly, and historical charts and goal setting.
+`React` `TypeScript` `Chrome Extension MV3`
 
-### MindfulTabs — Screen Time Extension
-Chrome extension (Manifest V3) that tracks per-domain browsing time in real-time with an interactive dashboard, charts, and analytics. Built with React + TypeScript.
+<details>
+<summary><b>More projects</b></summary>
 
-`React` `TypeScript` `Chrome Extension MV3` `Vite` `Chrome Storage API`
+- [property-ai](https://github.com/basupatil1213/property-ai): real-estate RAG chatbot (OpenAI embeddings, Pinecone, LangChain, Next.js)
+- [buildsy-web](https://github.com/basupatil1213/buildsy-web): AI side-project idea generator and community (LangGraph, OpenAI, React, Express, Supabase)
+- [george-soros-chatbot](https://github.com/basupatil1213/george-soros-chatbot): LoRA fine-tuning of Llama 3.2 on interview transcripts
+- [bitcoin-explorer](https://github.com/basupatil1213/bitcoin-explorer): Rust ingestion service + Next.js dashboard, Dockerized and deployed to GCP via GitHub Actions
+- [nft-marketplace-project](https://github.com/basupatil1213/nft-marketplace-project): ERC-721 minting and on-chain auctions (Solidity, Foundry, Next.js)
+- [patient-management](https://github.com/basupatil1213/patient-management): Spring Boot microservices with OpenAPI docs
+- [low-level-system-design-resource](https://github.com/basupatil1213/low-level-system-design-resource): design patterns and LLD interview problems in Java
 
-</td>
-<td width="50%" valign="top">
-
-### AIFlash
-AI-powered flashcard and practice question generator. Users paste any text and get study-ready cards instantly, with optional Stripe-gated premium features and Firestore persistence.
-
-`Next.js` `TypeScript` `OpenAI` `Firebase` `Stripe` `Tailwind CSS`
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 ## Tech Stack
 
 <h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,solidity&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,java,ts,js&perline=10" />
 
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,html,css&perline=10" />
+<h4>AI / LLM</h4>
 
-<h4>Backend & Databases</h4>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgresql,mysql,firebase&perline=10" />
-
-<h4>Cloud & Infrastructure</h4>
-<img src="https://skillicons.dev/icons?i=gcp,aws,terraform,docker,vercel,netlify&perline=10" />
-
-<h4>AI / ML Tooling</h4>
-
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Akka](https://img.shields.io/badge/Akka-15AEE0?style=flat-square&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<h4>Tooling & Dev Environment</h4>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,pnpm,vite&perline=10" />
+<h4>Backend & Data</h4>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring,kafka,postgres,mongodb&perline=10" />
+
+<h4>Cloud & Infrastructure</h4>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,vercel&perline=10" />
+
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=10" />
+
+<h4>Tooling</h4>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=10" />
 
 ---
 
@@ -146,28 +108,8 @@ AI-powered flashcard and practice question generator. Users paste any text and g
 
 <img src="https://github-readme-stats.vercel.app/api?username=basupatil1213&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="160" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=basupatil1213&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=basupatil1213&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
 
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=basupatil1213&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=basupatil1213&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </div>
 
 ---
